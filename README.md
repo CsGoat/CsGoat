@@ -32,7 +32,5 @@ I make mostly Counter-Strike stuff. Most of my repos are private.
   <img src="https://github.com/CsGoat/CsGoat/blob/main/languages/python.png" width="40">&nbsp;&nbsp;
   <img src="https://github.com/CsGoat/CsGoat/blob/main/languages/javascript.png" width="40">&nbsp;&nbsp;
   <img src="https://github.com/CsGoat/CsGoat/blob/main/languages/html.png" width="40">&nbsp;&nbsp;
-  <img src="https://github.com/CsGoat/CsGoat/blob/main/languages/kotlin.png" width="40">&nbsp;&nbsp;
-  <img src="https://github.com/CsGoat/CsGoat/blob/main/languages/java.png" width="40">&nbsp;&nbsp;
   <img src="https://github.com/CsGoat/CsGoat/blob/main/languages/armasm.png" width="40">
 </p>
