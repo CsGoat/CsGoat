@@ -12,18 +12,6 @@ I make mostly Counter-Strike stuff. Most of my repos are private.
 
 ---
 
-### Unpublished Projects
-
-| Project | Description |
-|---------|-------------|
-| Spray Pattern Tracker | Native OBS C plugin for CS2 spray pattern tracking |
-| Skin Pattern Analyzer | CS2 skin pattern analyzer with OpenCV. Used for automatically ranking skins based on certain criteria |
-| Case/Terminal Tracker | Allows you to quickly (manually) track items found in terminals/cases and automatically provides statistics |
-| Game Demo Analyzer | Automatically analyzes your downloaded match demos and provides statistics for all players in the demo for performance tracking, will eventually handle demo management automatically |
-| Crosshair Code Saver | Allows you to save multiple crosshair codes. Automatically parses the crosshair codes and provides the specific CVARs used |
-
----
-
 ### Languages
 
 <p>
